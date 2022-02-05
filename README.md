@@ -1,5 +1,5 @@
 # First_Fantasy
-An "RPG" created as a portfolio project for my bootcamp.  
+An "RPG" created as a portfolio project for my bootcamp in Python.   
 
 Portfolio Project - “First Fantasy”
 
