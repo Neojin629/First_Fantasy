@@ -42,7 +42,7 @@ class Villains:
         self.damage = damage
 
 
-goblin = Villains("Goblin", 500, 20)
+goblin = Villains("Goblin", 400, 20)
 werewolf = Villains("Werewolf", 550, 22)
 vampire = Villains("Vampire", 600, 25)
 dragon = Villains("Dragon", 1000, 50)
